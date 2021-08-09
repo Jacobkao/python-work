@@ -18,7 +18,7 @@ while i==1:
     time.sleep(60)
 p#eriod = 60
 
-#ti = TechIndicators(key=api_key, output_format='pandas')
+#ti = TechIndicators(key=api_key, output_format='pandas')    
 #data_ti, meta_data_ti = ti.get_sma(symbol='ARKK', interval='1min',
  #                                   time_period=period, series_type='close')
 
